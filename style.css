@@ -1,3 +1,36 @@
-a {
-	background-color: red;
+#menu {
+	
+	position: absolute;
+	right: 25px;
+	top:25px;
+
+}
+.menu1 {
+	color:rgba(0,0,0,0.87);
+	text-decoration: none;
+	
+}
+#menu2 {
+	color:#fff;
+	background-color :#4387fd;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 12px;
+	border: 1px;
+
+}
+img {
+	margin-top: 109px;
+	height: 233px;
+	width: auto;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: auto;
+
+}
+form{
+	position: absolute;
+	top: 45%;
+	left: 40%;
 }
